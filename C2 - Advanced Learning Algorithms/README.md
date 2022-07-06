@@ -1,4 +1,4 @@
-## About this Course
+# About this Course
 
 In the second course of the Machine Learning Specialization, you will:
 
